@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- ⚡ Fun fact: It will be revealed soon.
+
 <!--
 **mzyavuz/mzyavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
